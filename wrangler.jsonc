@@ -13,4 +13,8 @@
 		"binding": "ASSETS",
 		"directory": "./dist"
   	},
+	"compatibility_flags": [
+    		"nodejs_compat",
+    		"disable_nodejs_process_v2"
+  	]
 }
