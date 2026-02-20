@@ -9,8 +9,7 @@ You can leave this empty if you don’t want to show any content.
 
 Welcome! 
 
-Blog posts from me, from random thoughts to technical insights
-- have a look!
--- d
+Blog posts from me, from random thoughts to technical insights.
 
-# A personal blog about moments and technology
+Have a look :)
+-- d
